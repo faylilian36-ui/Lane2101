@@ -1,8 +1,8 @@
 /*
-NAME:
-REG NO:
-DATE:
-DESCRIPTION:
+NAME:FAY LILIAN AKINYI
+REG NO:PA106/G/28784/25
+DATE:3/11/2025
+DESCRIPTION:A PROGRAM TO DISPLAY BORROWED BOOKS
 */
 
 #include<stdio.h>
@@ -39,4 +39,5 @@ int main(){
 	  
 	   printf("All tittles saved in borrowed_books.txt\n");
 	   return 0	;
+
 	}
