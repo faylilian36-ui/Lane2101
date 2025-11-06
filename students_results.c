@@ -1,7 +1,7 @@
 /*
-NAME:
-REG NO:
-DATE:
+NAME:FAY LILIAN AKINYI
+REG NO:PA106/G/28784/25
+DATE:3/11/2025
 */
 
 //students_results
@@ -67,4 +67,5 @@ while(fread(&s,sizeof(struct student),1,fptr)){
 fclose(fptr);
 		
 	return 0;
+
 }
